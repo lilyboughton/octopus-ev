@@ -1,0 +1,110 @@
+[
+    {
+        "carId": 1,
+        "mileage": 5000,
+        "term": 24,
+        "rental": 503
+    },
+    {
+        "carId": 2,
+        "mileage": 5000,
+        "term": 24,
+        "rental": 521
+    },
+    {
+        "carId": 1,
+        "mileage": 5000,
+        "term": 36,
+        "rental": 426
+    },
+    {
+        "carId": 2,
+        "mileage": 5000,
+        "term": 36,
+        "rental": 501
+    },
+    {
+        "carId": 1,
+        "mileage": 5000,
+        "term": 48,
+        "rental": 355
+    },
+    {
+        "carId": 2,
+        "mileage": 5000,
+        "term": 48,
+        "rental": 422
+    },
+    {
+        "carId": 1,
+        "mileage": 10000,
+        "term": 24,
+        "rental": 521
+    },
+    {
+        "carId": 2,
+        "mileage": 10000,
+        "term": 24,
+        "rental": 614
+    },
+    {
+        "carId": 1,
+        "mileage": 10000,
+        "term": 36,
+        "rental": 452
+    },
+    {
+        "carId": 2,
+        "mileage": 10000,
+        "term": 36,
+        "rental": 589
+    },
+    {
+        "carId": 1,
+        "mileage": 10000,
+        "term": 48,
+        "rental": 374
+    },
+    {
+        "carId": 2,
+        "mileage": 10000,
+        "term": 48,
+        "rental": 476
+    },
+    {
+        "carId": 1,
+        "mileage": 15000,
+        "term": 24,
+        "rental": 558
+    },
+    {
+        "carId": 2,
+        "mileage": 15000,
+        "term": 24,
+        "rental": 675
+    },
+    {
+        "carId": 1,
+        "mileage": 15000,
+        "term": 36,
+        "rental": 472
+    },
+    {
+        "carId": 2,
+        "mileage": 15000,
+        "term": 36,
+        "rental": 563
+    },
+    {
+        "carId": 1,
+        "mileage": 15000,
+        "term": 48,
+        "rental": 401
+    },
+    {
+        "carId": 2,
+        "mileage": 15000,
+        "term": 48,
+        "rental": 532
+    }
+]

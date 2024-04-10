@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "slug": "polestar-2",
+        "name": "Polestar 2",
+        "image": "polestar2.webp"
+    },
+    {
+        "id": 2,
+        "slug": "tesla-model-y",
+        "name": "Tesla Model Y",
+        "image": "modely.webp"
+    }
+]
