@@ -44,3 +44,29 @@ To learn more about Next.js, take a look at the following resources:
 
 -   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 -   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+## LB Notes
+I followed the pattern already established in the codebase and so have used JavaScript. If I were to do this exercise again, I would take the
+time upfront to enable me to use TypeScript instead. I find using TypeScript helps me organise the way I think about variables better and gives me more
+confidence in my code.
+
+Areas to focus on next:
+1. Organisation of the codebase:
+I don't have much experience defining the structure of a codebase (particularly with Next JS). I would usually look to follow existing patterns when it
+comes to naming and organinsing files.
+
+2. Testing
+I've put in some very basic tests to test my functions but would like to have implemented more tests. I would have liked to have done some component testing
+and I like using Cypress for some E2E testing.
+
+3. Error handling and data validation
+I made full use of the fact that the data was mocked and static and so only implemented some very rudimentary error handling. This would definitely be an area
+to focus on in next steps.
+
+4. Accessibility and responsiveness
+I've used basic html components with limited adjustments made for accessibility. I would look to replace these components with more sophisticated ones, provided by a library that would provide a better, more accessible user experience. I have also coded the solution as per the design, and so it isn't responsive. The design would work well on mobile, but I would be keen to see a design for desktop too. In this way, though, it is coded mobile first
+which I would be interested in understanding if that's the correct approach for this application.
+
+5. Favicon
+I really wanted to get the favicon to work - followed all the advice I could find but couldn't get it to work!
+

@@ -3,6 +3,7 @@ body {
     padding: 0;
     margin: 0;
     font-family: Gotham, sans-serif;
+    background-color: #e5e5e5;
 }
 
 a {
@@ -12,4 +13,118 @@ a {
 
 * {
     box-sizing: border-box;
+}
+
+.bannerContainer {
+    padding: 13px 20px;
+    background-color: #100130;
+    height: 70px;
+    display: flex;
+}
+
+.carCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px 30px 0 30px;
+}
+
+.carCard h1 {
+    font-weight: 400;
+    margin: 0;
+    font-size: 26px;
+}
+
+.carCard img {
+    height: 250px;
+}
+
+.ratesSelectionCard {
+    background-color: #180148;
+    color: #ffffff;
+    height: 500px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.ratesSelectionCard div {
+    display: flex;
+    flex-direction: column;
+}
+
+.ratesSelectionCard div select {
+    background-color: #180148;
+    color: #ffffff;
+    font-family: Gotham, sans-serif;
+    border: solid 2px #ffffff;
+    border-radius: 10px;
+    width: 400px;
+    height: 50px;
+    padding: 10px;
+    margin: 15px 0;
+    font-size: large;
+    font-weight: lighter;
+}
+
+.ratesSelectionCard label {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.ratesCalculationCard {
+    background-image: linear-gradient(to bottom right, #45106d, #170851, #1a54a1);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top: -20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.ratesCalculationCard div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 400px;
+}
+
+.ratesCalculationCard div p {
+    font-size: 20px;
+    font-weight: lighter;
+    margin: 10px 0;
+}
+
+.ratesCalculationCard button {
+    background-color: #42c8f8;
+    border: solid 2px #42c8f8;
+    border-radius: 10px;
+    color: #180148;
+    font-family: Gotham, sans-serif;
+    width: 400px;
+    height: 50px;
+    padding: 10px;
+    margin: 15px 0;
+    font-size: large;
+    font-weight: bolder;
+}
+
+.linksToCars {
+    display: flex;
+    justify-content: center;
+}
+
+.linksToCars img {
+    height: 300px;
+}
+
+.linksToCars .link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
